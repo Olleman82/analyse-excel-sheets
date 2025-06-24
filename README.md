@@ -11,7 +11,7 @@ Detta projekt analyserar alla Excel-filer (.xlsx) i den aktuella mappen och gene
 ## Installation
 1. Klona detta repo:
    ```bash
-   git clone https://github.com/<ditt-användarnamn>/analyse-excel-sheets.git
+   git clone https://github.com/Olleman82/analyse-excel-sheets.git
    cd analyse-excel-sheets
    ```
 2. Installera beroenden:
